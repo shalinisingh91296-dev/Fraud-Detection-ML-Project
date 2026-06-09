@@ -1,1 +1,3 @@
-# Fraud-Detection-ML-Project
+# Fraud Detection Using Logistic Regression
+## I built a fraud detection model using Logistic Regression. I performed data cleaning, handled categorical variables using one-hot encoding, split data into train and test sets, and trained the model. Since fraud data is imbalanced, I used class_weight='balanced'. I evaluated using confusion matrix, precision, recall, and achieved improved fraud detection with reduced false negatives. I visualized the model performance using confusion matrix, ROC curve, and feature importance to understand fraud detection accuracy and key drivers
+## Workflow - Data → Cleaning → Feature Engineering → Train Model → Evaluate → Deploy API → Real-time Fraud Detection
